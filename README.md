@@ -48,6 +48,8 @@ In the Nextflow directory, you'll find the code used to create a RNA outlier pip
   apptainer pull --dir 'path/to/cache/dir' container_name.sif library://timniem/rna_outliers/test:sha256.7e228258c297dd9d4dd339f824f3d38845b69745285f17b5facd7052b6822781
   </code>
 
+  - or create the container using the definitation file "rna_outlier_pipeline.def"
+
 
 ### Parameters
 
